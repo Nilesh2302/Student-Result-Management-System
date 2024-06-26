@@ -10,7 +10,6 @@ This project is a Student Result Management System built using Node.js, Express.
 
 Note : Teacher has fixed password 'asdf'
 
-🚀 Live Demo
 
 🛠️ Built with
 
@@ -21,6 +20,7 @@ Note : Teacher has fixed password 'asdf'
 - CSS
 - Bootstrap
 
+🚀 Live Demo
  • HOME page
   ![](home.png)
 
