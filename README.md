@@ -24,6 +24,14 @@ Note : Teacher has fixed password 'asdf'
  • HOME page
   ![](home.png)
 
+  • Teacher Login 
+  ![](t1.png)
+  ![](t2.png)
+  ![](t3.png)
+  ![](t4.png)
+  ![](t5.png)
+  
+
 📝 Instructions
 
 📥 Clone this repository
