@@ -3,6 +3,7 @@
 ## Overview
 
 
+
 "Here, the teacher has a fixed password 'asdf' and has full access to performing CRUD operations on student details. Students can access their results using their roll number. Passing criteria: Students need to score at least 35 marks in each subject."
 
 This project is a Student Result Management System built using Node.js, Express.js, and MongoDB. It provides functionalities for record management, score card generation, and academic progress tracking.
@@ -11,7 +12,7 @@ Note : Teacher has fixed password 'asdf'
 
 🚀 Live Demo
 
-Check out the live demo [here](Mongo-Link).
+(Home)[home.png]
 
 ✨ Features
 
