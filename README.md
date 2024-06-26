@@ -22,7 +22,7 @@ Note : Teacher has fixed password 'asdf'
 - Bootstrap
 
  • HOME page
-  ![](home.png)
+  
 
   • Teacher Login 
   ![](t1.png)
