@@ -12,7 +12,7 @@ Note : Teacher has fixed password 'asdf'
 
 🚀 Live Demo
 
-(Home)[home.png]
+![Home](home.png)
 
 ✨ Features
 
