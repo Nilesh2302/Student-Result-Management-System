@@ -2,7 +2,6 @@
 
 ## Overview
 
-Here's the corrected introduction with proper grammar:
 
 "Here, the teacher has a fixed password 'asdf' and has full access to performing CRUD operations on student details. Students can access their results using their roll number. Passing criteria: Students need to score at least 35 marks in each subject."
 
