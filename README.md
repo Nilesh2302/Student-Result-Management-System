@@ -20,7 +20,7 @@ Note : Teacher has fixed password 'asdf'
 - CSS
 - Bootstrap
 
-🚀 Live Demo  /
+🚀 Live Demo  <br>
  • HOME page
   ![](home.png)
 
