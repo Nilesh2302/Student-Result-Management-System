@@ -2,22 +2,22 @@ const express = require("express");
 const app = express();
 const port = 3000;
 const mongoose = require('mongoose');
-var expressLayouts = require('express-ejs-layouts');    //
+var expressLayouts = require('express-ejs-layouts');    
 
-mongoose.connect("mongodb://localhost:27017/task3", {
-  useNewUrlParser: true,                           //
-  useUnifiedTopology: true,                       //
+mongoose.connect("mongodb+srv://nileshchaudhari2302:asdfghjkl@cluster0.u9igubz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", {
+  useNewUrlParser: true,                           
+  useUnifiedTopology: true,                       
 });
-const db = mongoose.connection;                   //
-db.on("error", (error) => console.log(error));     //
-db.once("open", () => console.log("connected"));    //
+const db = mongoose.connection;                   
+db.on("error", (error) => console.log(error));     
+db.once("open", () => console.log("connected"));    
 
-app.set('view engine', 'ejs');                 //
-app.use(express.static('public'))             //               
-app.use(expressLayouts);                      //
-app.set('layout', 'layouts/layout');         //
-app.use(express.json());                     //
-app.use(express.urlencoded());              //
+app.set('view engine', 'ejs');                 
+app.use(express.static('public'))                         
+app.use(expressLayouts);                      
+app.set('layout', 'layouts/layout');         
+app.use(express.json());                     
+app.use(express.urlencoded());              
 
 const teacherRoutes = require("./routes/teacherlogin")
 const studentRoutes = require("./routes/studentlogin")
