@@ -21,7 +21,8 @@ Note : Teacher has fixed password 'asdf'
 - CSS
 - Bootstrap
 
-  ![Hohggggggggggggggggggggggggggggggggggggggggfme](home.png)
+ • HOME page
+  ![](home.png)
 
 📝 Instructions
 
