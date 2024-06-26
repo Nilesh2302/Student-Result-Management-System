@@ -26,7 +26,7 @@ Note : Teacher has fixed password 'asdf'
 
   • Teacher Login 
   ![](t1.png) 
-  Teacher Have fixed password,that password only teacher know
+  Teacher have fixed password,that password only teacher know
   ![](t2.png)
   ![](t3.png)
   ![](t4.png)
