@@ -25,11 +25,17 @@ Note : Teacher has fixed password 'asdf'
   ![](home.png)
 
   • Teacher Login 
-  ![](t1.png) \
+  ![](t1.png) 
+  Teacher Have fixed password,that password only teacher know
   ![](t2.png)
   ![](t3.png)
   ![](t4.png)
   ![](t5.png)
+
+  • Student Login 
+  login using their unique roll no.
+  ![](s1.png) 
+  ![](s2.png) 
   
 
 📝 Instructions
