@@ -12,14 +12,6 @@ Note : Teacher has fixed password 'asdf'
 
 🚀 Live Demo
 
-![Home](home.png)
-
-✨ Features
-
-- Record Management: Efficiently manage and store student records.
-- Score Card Generation: Automatically generate score cards for students.
-- Academic Progress Tracking Track academic progress over time.
-
 🛠️ Built with
 
 - Node.js
@@ -28,6 +20,8 @@ Note : Teacher has fixed password 'asdf'
 - HTML
 - CSS
 - Bootstrap
+
+  ![Home](home.png)
 
 📝 Instructions
 
@@ -58,4 +52,8 @@ $ npm start
 ```
 
 ```
+✨ Features
 
+- Record Management: Efficiently manage and store student records.
+- Score Card Generation: Automatically generate score cards for students.
+- Academic Progress Tracking Track academic progress over time.
